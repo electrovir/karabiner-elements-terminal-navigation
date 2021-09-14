@@ -6,7 +6,7 @@ On the website it was listed as maintained by [`marlonrichert`](https://github.c
 
 # Usage
 
-1. Drag the `.json` file into `!/.config/karabiner/assets/complex_modifications/`
+1. Drag the `.json` file into `~/.config/karabiner/assets/complex_modifications/`
 2. Open Karabiner Elements
 3. Navigate to the `Complex modifications` tab
 4. Click `+ Add rule` in the bottom right
